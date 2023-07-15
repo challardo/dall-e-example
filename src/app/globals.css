@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.RegularImage {
+  height: 512px;
+  width: 512px;
+}
